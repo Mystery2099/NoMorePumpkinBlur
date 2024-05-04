@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 22,
-    "supported_formats":[1,22],
+    "pack_format": 32,
+    "supported_formats":[1,32],
     "description": "This pack removes pumpkin blur from minecraft"
   }
 }
