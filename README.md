@@ -1,5 +1,26 @@
-This is a resource pack that simply removes a single texture from Minecraft aka the pumpkin blur texture. 
+# No More Pumpkin Blur
 
-As long as Mojang doesn't move where they keep the texture file or the name of the texture file, technically every version of the pack should be compatible with every version of Minecraft (even if the resource pack version number isn't correct for the running version of Minecraft)
+A Minecraft resource pack that removes the pumpkin blur overlay when wearing a carved pumpkin.
 
-This pack can be found on both [Curse Forge](https://www.curseforge.com/minecraft/texture-packs/no-more-pumpkin-blur-pack) and [Modrinth](https://modrinth.com/resourcepack/no-more-pumpkin-blur).
+If you like wearing pumpkins but hate the screen blur, this pack is for you.
+
+## Downloads
+
+- [Modrinth](https://modrinth.com/resourcepack/no-more-pumpkin-blur)
+- [CurseForge](https://www.curseforge.com/minecraft/texture-packs/no-more-pumpkin-blur-pack)
+
+## Installation
+
+1. Download the pack from Modrinth, CurseForge, or clone this repository.
+2. Place the zip (or folder) in your Minecraft `resourcepacks` directory.
+3. Enable **No More Pumpkin Blur** in Options → Resource Packs.
+
+## Compatibility
+
+This pack only replaces a single texture (`assets/minecraft/textures/misc/pumpkinblur.png`). As long as Mojang does not rename or move that file, every version of the pack should work on every Minecraft version — even if the pack format number does not match the game version.
+
+Current `pack.mcmeta` declares support for pack formats **1–88** (Minecraft 1.6.1 through 26.2).
+
+## How it works
+
+The pack ships a transparent `pumpkinblur.png` so the overlay is invisible when a pumpkin is worn. Nothing else in the game is changed.
