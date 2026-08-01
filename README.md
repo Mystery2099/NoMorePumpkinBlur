@@ -22,7 +22,7 @@ If you like wearing pumpkins but hate the screen blur, this pack is for you.
 
 This pack only replaces a single texture (`assets/minecraft/textures/misc/pumpkinblur.png`). As long as Mojang does not rename or move that file, every version of the pack should work on every Minecraft version; even if the pack format number does not match the game version.
 
-Current `pack.mcmeta` declares support for pack formats **1-88** (Minecraft 1.6.1 through 26.2).
+Current `pack.mcmeta` declares support for pack formats **1-94** (Minecraft 1.6.1 through 26.3 Snapshot 6).
 
 ## How it works
 
