@@ -1,13 +1,16 @@
 # No More Pumpkin Blur
 
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/338831?logo=curseforge&label=CurseForge&color=F16436)](https://www.curseforge.com/minecraft/texture-packs/no-more-pumpkin-blur-pack)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/no-more-pumpkin-blur?logo=modrinth&label=Modrinth&color=1BD96A)](https://modrinth.com/resourcepack/no-more-pumpkin-blur)
+
 A Minecraft resource pack that removes the pumpkin blur overlay when wearing a carved pumpkin.
 
 If you like wearing pumpkins but hate the screen blur, this pack is for you.
 
 ## Downloads
 
-- [Modrinth](https://modrinth.com/resourcepack/no-more-pumpkin-blur)
 - [CurseForge](https://www.curseforge.com/minecraft/texture-packs/no-more-pumpkin-blur-pack)
+- [Modrinth](https://modrinth.com/resourcepack/no-more-pumpkin-blur)
 
 ## Installation
 
