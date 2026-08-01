@@ -20,10 +20,16 @@ If you like wearing pumpkins but hate the screen blur, this pack is for you.
 
 ## Compatibility
 
-This pack only replaces a single texture (`assets/minecraft/textures/misc/pumpkinblur.png`). As long as Mojang does not rename or move that file, every version of the pack should work on every Minecraft version — even if the pack format number does not match the game version.
+This pack only replaces a single texture (`assets/minecraft/textures/misc/pumpkinblur.png`). As long as Mojang does not rename or move that file, every version of the pack should work on every Minecraft version; even if the pack format number does not match the game version.
 
-Current `pack.mcmeta` declares support for pack formats **1–88** (Minecraft 1.6.1 through 26.2).
+Current `pack.mcmeta` declares support for pack formats **1-88** (Minecraft 1.6.1 through 26.2).
 
 ## How it works
 
 The pack ships a transparent `pumpkinblur.png` so the overlay is invisible when a pumpkin is worn. Nothing else in the game is changed.
+
+## Support (totally optional)
+
+This pack is free, and it always will be. It's literally one texture; nobody owes me anything for that.
+
+If you somehow still want to tip, you can [buy me a coffee](https://buymeacoffee.com/mystery2099). No pressure at all.
